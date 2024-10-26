@@ -1,0 +1,54 @@
+.head_up{padding: 84px 0px 94px 0px;}
+.head_profile{padding-right: 175px; margin-top:94px;}
+.up_inform h2{font-size: 24px;font-family: 'Open Sans', sans-serif;margin-bottom: 36px;}
+.up_inform p{font-size: 14px;margin-bottom: 15px;}
+.profile_inform h1{font-size: 14px;font-family: 'Open Sans', sans-serif;}
+.profile_inform p{font-size: 14px;padding: 25px 0px 25px 16px;}
+.profile_inform p span{text-transform: uppercase;font-size: 14px;}
+.button_next{background: #408d1c;text-align: center;text-transform: uppercase;padding: 20px 0px; border-radius: 7px;
+    -webkit-border-radius: 7px; -moz-border-radius: 7px;}
+.button_next a{ color: #ffffff; font-size: 16px;}
+.btn_app{padding-left: 85px;}
+.btn_app ul li a{margin-right: 10px;}
+.btn_app img{width:145px;}
+
+.login_Title h2{font-size: 24px;}
+.login_Title p{font-size: 14px;}
+.login_form{margin-top: 50px;}
+.form_group label, .social_auth, .auth_term{font-size: 12px;text-align: center;}
+.nav_custom{margin:0px; padding: 0px;}
+.nav_custom li{padding: 16px 0px 16px 18px;border-radius: 7px;-webkit-border-radius: 7px; -moz-border-radius: 7px;margin-bottom: 20px;}
+.nav_custom li:first-child{background: #507cc0;}
+.nav_custom li:last-child{background: #df4930;}
+.nav_custom li a{color: #ffffff;font-size: 14px;}
+.nav_custom li a i{font-size: 25px; margin-right: 10px;}
+.auth_control{border-bottom: 1px solid #dfdfe0;}
+.input-groups .input-group-text{padding: .375rem 0rem;background-color: transparent;border: 1px solid transparent;}
+.auth_control .btn{margin: 0px;padding: 0.84rem 0rem;border: none;}
+.control_custom{border: none!important;}
+.social_auth{margin:30px 0px;}
+.auth_term{margin-top: 7px;}
+.verify_log{margin-top: 20px!important;text-align: center;}
+.verify_log li:first-child{background: #408d1c;}
+.verify_log li a i{font-size: 18px;}
+.verify_custom{border: none!important;padding: .375rem 0rem!important;}
+
+.my_profile{background: #f6f6f6; padding: 50px 0px 190px 0px;}
+.offers_title {margin-bottom: 35px;}
+.offers_title h2 {font-size: 24px;font-weight: bold;}
+.new_offer{margin-top: 30px;}
+.new_offer a{font-size: 16px;color: #ffffff; background: #459022;padding: 20px 30px;border-radius: 7px;-webkit-border-radius: 7px; -moz-border-radius: 7px;}
+.new_offer a:hover{color: #ffffff;}
+.nav_btn li{padding: 15px 0px 15px 10px;margin-bottom: 10px;}
+.social_btn{font-size: 14px;margin: 60px 0px 16px 0px;}
+.profile_input{padding: 0px 70px 0px 20px;}
+.pro_custom{background: none!important;border: none!important;padding: .375rem 0rem!important;}
+.edit_details, .add_new{text-align: right;text-transform: uppercase; font-size: 14px;}
+.edit_details .btn, .add_new .btn{padding: 0.84rem 0rem!important;}   
+.edit_details .btn:hover, .add_new .btn:hover{text-decoration: none!important;}
+.auth_btn{border-bottom: 1px solid #c2c2c2;}
+.auth_btn .btn{text-transform: capitalize!important;padding: 5px 0px!important;font-size: 14px!important;}
+.auth_btn .form-control{font-size: 14px!important;}
+.profile_start .form_group{margin-bottom: 25px;}
+.profile_start .group_custom{margin-bottom: 0px;}
+.pro-groups .input-group-text {padding: .375rem 0rem;background-color: transparent;border: 1px solid transparent;font-size: 14px!important;}

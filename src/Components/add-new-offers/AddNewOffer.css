@@ -1,0 +1,20 @@
+.new_offers{background: #f6f6f6;padding: 55px 0px 285px 0px;}
+.barter_type h4{font-size: 12px;margin-bottom: 24px;}
+.barter_type .form-check {margin-bottom: 16px;}
+.barter_type .form-check .form-check-label{font-size: 14px;}
+.btn_cancel .btn_can{float: left; padding: 0.84rem 0rem!important;font-size: 16px;}
+.btn_cancel .post_btn{float: right; font-size: 16px; color: #ffffff!important;background: #459022!important;border-radius: 7px;
+    -webkit-border-radius: 7px; -moz-border-radius: 7px;}
+.btn_cancel .post_btn a{color: #ffffff;}   
+.barter_form .form_group{margin: 34px 0 36px 0px;}    
+.select_tag h2{font-size: 12px;margin-bottom: 13px;}
+.select_btn .btn{padding: 5px 10px;margin: 0px 8px 6px 0px;border: 1px solid #9a9a9a;font-size: 13px;}
+.select_radio h4{font-size: 12px;margin: 28px 0px 23px 0px;}
+.select_radio .form-check{margin-right: 32px;font-size: 14px;}
+.change_loc h2{font-size: 14px; color: #999999;margin: 28px 0px 20px 0px;}
+.change_loc ul{margin: 0px; padding: 0px;}
+.change_loc ul li{float: left;font-size: 14px;}
+.change_loc ul li:last-child{float: right;}
+.change_loc .btn{padding: 0px!important;color: #5ea017!important; text-transform: uppercase;}
+.add_item h1{font-size: 24px; font-weight: bold;margin-bottom: 42px;}
+.newoffers_details, .barter_type{padding: 62px 30px 0px 30px;}

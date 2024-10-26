@@ -1,0 +1,18 @@
+.offer_details{background: #f6f6f6;padding: 87px 0px 15px 0px;}
+.product_content h1{color: #010101;font-size: 24px;}
+.product_content h1 span{font-size: 14px; text-transform: uppercase; color:#ad60f7;font-family: 'Montserrat', sans-serif;margin-left: 14px;}
+.product_content .pro_price{font-size: 18px; color: #010101; font-family: 'Montserrat', sans-serif;margin:30px 0px;}
+.client_loc{font-size: 14px;}
+.client_loc span{margin-left: 36px;}
+.product_content p{font-size: 14px;margin: 35px 0px ;}
+.pro_chat a{font-size: 16px; color: #ffffff; font-family: 'Montserrat', sans-serif;background: #408d1c;padding: 20px 32px;
+border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px;}
+.pro_chat a:hover{color: #ffffff;}
+.Related_title{margin:75px 0px 52px 0px;font-size: 18px; text-transform: uppercase;}
+.potential_items{background: #e9e9e9;padding: 22px 20px;}
+.potential_items h1{font-size: 16px;}
+.pro_items .nav .nav-item img{padding: 15px 9px; background: #ffffff;margin-right: 10px;border-radius: 10px;
+-webkit-border-radius: 10px; -moz-border-radius: 10px;}
+.app_prostore{padding: 22px 50px; background: #ffffff;margin-top:16px;}
+.app_prostore .nav .nav-item img{width: 130px;margin-right: 8px;}
+.app_prostore .nav .nav-item:last-child img{margin:0px;}

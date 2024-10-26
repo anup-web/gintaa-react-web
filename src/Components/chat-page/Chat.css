@@ -1,0 +1,100 @@
+.chat_box{background: #f6f6f6;padding: 46px 0px 106px 0px;}
+.pagination_account{margin-bottom: 50px;}
+.deals_title{width: 100%; font-size: 18px;background: #335d06;color: #ffffff;padding: 20px 0px 20px 20px;margin:0px;}
+@media (min-width: 960px){.MuiTab-root {min-width: 50%!important;}}
+.MuiTab-root {min-width: 50%!important;font-family: 'Open Sans', sans-serif!important;}
+.MuiTypography-body1{font-family: 'Open Sans', sans-serif!important;}
+.PrivateTabIndicator-colorSecondary-64 {background-color: #2f500b!important;}
+.MuiAppBar-colorPrimary {background-color: #5ea017!important;}
+.ongoing_deal{border: 1px solid #e3e3e3;border-top: 0px;padding: 10px 5px;}
+.media-body h5{font-size: 14px;font-family: 'Open Sans', sans-serif;margin-bottom: 6px;}
+.media-body .media_title span{float: right;font-size: 10px;}
+.media-body .client_name{font-size: 12px;margin-bottom: 0px;}
+.media-body .client_name span{float: right;background: #74b14e;border-radius: 100%;padding: 5px 4px;color: #ffffff;font-size: 10px;}
+.MuiBox-root{padding: 0px!important;}
+.chat_top{float: left;width: 100%;background: #ececec;}
+.medial_client{float: right;margin-top: 18px;margin-right: 20px;}
+.medial_client .media-body .mt-6 span{font-size: 20px;padding-left: 25px;}
+.medial_pro{float: left;}
+.tabs_padding{padding-right: 0px!important;}
+.chat_padding{padding-left: 0px!important;}
+.medial_pro .media-body h5{margin-top: 23px;}
+.chat_deal{background: #f8fdf2;float: left;width: 100%;}
+.view_offers{position: absolute;right: 255px;background: #ffffff;display: inline-flex;width: 420px;margin-top: 20px;
+    border-radius: 7px;-webkit-border-radius: 7px;-moz-border-radius: 7px;}
+.chat_massage{float: left;width: 100%;}
+.chatclient_second{float: right;margin-top: 100px;text-align: right;padding: 30px 15px 10px 0px;}
+.chatclient_first{float: left;text-align: left;padding: 30px 0px 10px 20px;}
+.comment_group h4{font-size: 10px;text-transform: uppercase;}
+.comment_group .comment{padding: 10px 0px;margin: 0px;}
+.comment_group .comment span{background: #ffffff;padding: 10px 20px;border-radius: 50px;font-size: 16px;border-radius: 75px 50px 50px 0px;-webkit-border-radius: 75px 50px 50px 0px;-moz-border-radius: 75px 50px 50px 0px;}
+.comment_groups h4{font-size: 10px;text-transform: uppercase;}
+.comment_groups .comment{padding: 10px 0px;margin: 0px;}
+.comment_groups .comment span{background: #5ea017;color:#ffffff;padding: 10px 20px;border-radius: 50px 75px 0px 50px;-webkit-border-radius: 50px 75px 0px 50px;-moz-border-radius: 50px 75px 0px 50px;font-size: 16px;}
+.view_offers .hand{background: #ad60f7;padding:6px;font-size: 25px;color: #ffffff;border-radius: 7px 30px 30px 7px;-webkit-border-radius: 7px 30px 30px 7px;-moz-border-radius: 7px 30px 30px 7px;}
+.view_offers h5{font-size: 16px;margin: 0px;padding: 15px 10px;}   
+.view_offers h5 span{color: #ad60f7;}   
+.view_offers .btn{padding: 6px 10px!important;font-size: 12px!important;text-transform: uppercase!important;} 
+.massage_box{background: #ececec;padding: 10px 15px;float: left;width: 100%;}
+.custom_select{width:150px;}
+.custom_select .form-control {font-size: 14px;margin-top: 6px;font-family: 'Montserrat', sans-serif;border: 0px;background: transparent;}
+.icon_at{font-size: 18px;color: #5ea017;padding: 15px 0px 12px 10px;margin: 0px;}
+.input_control .form_control{font-size: 14px;height: 50px;padding: 0px 10px;border: none;border-left: 1px solid gray;width: 100%;}
+.append_custom .btns, .btn_upload .btns{background: none;border: none;box-shadow: none;}
+.group-customchat{display: inline-flex;width: 96%;background: #ffffff;border-radius: 50px;-webkit-border-radius: 50px;-moz-border-radius: 50px;}
+.btn_upload{display: inline-flex;margin-left: 10px;}
+.input_control{width: 100%;}
+.btn_upload .btn{padding: 10px 0px 10px 20px!important;}
+.append_custom .btns {padding: 13px 15px!important;}
+.append_custom .btns i{color: #5ea017;}
+.join_group{text-align: center;float: left;width: 100%;padding: 25px;}
+.offers_new{float: left;margin-top: 84px;text-align: left;padding-left: 16px; width:100%;}
+.offers_group{float: left;}
+.jain_bar span{font-size: 10px;background: #dbefd1;padding: 12px;text-transform: uppercase;border-radius: 7px;-webkit-border-radius: 7px;-moz-border-radius: 7px;}
+.offers_group  h4{font-size: 10px;text-transform: uppercase;}
+/* .offers_card{background: url("~/assets/images/card_bg.png");background-repeat: no-repeat;background-size: cover;width:265px;background-position: center;} */
+.offers_card .hand {background: #ad60f7;padding: 20px 12px;font-size: 30px;color: #ffffff;border-radius: 7px 50px 50px 7px;
+    -webkit-border-radius: 7px 50px 50px 7px;-moz-border-radius: 7px 50px 50px 7px;}
+.media-body .mts{margin: 25px 0px 10px 20px;font-size: 16px;}  
+.media-body .me_text{font-size: 14px;margin-left:20px;}  
+.media-body .btnvs{text-align: center;border: none;background: none;font-size: 16px;font-weight: bold;margin-bottom: 10px;}
+.view_btn{text-align: center;}
+.chat_card{width: 252px;float: right;background-color: transparent!important;}
+.chat_card .card-body {flex: 0!important;padding: 0!important;}
+.chat_card .card-body .card-title{text-align: center;font-size: 12px;background: #000000;color: #ffffff;padding: 15px 0px;
+    opacity: 0.7;margin-bottom: 0px;text-transform: uppercase;}
+.chat_card .card-body .card-text {font-size: 13px!important;padding: 15px 10px;background: #5ea017;color: #ffffff!important;}   
+.popup {position: fixed;width: 100%;height: 100%;top: 0;left: 0;right: 0;bottom: 0;margin: auto;z-index: 9999;background-color: rgba(0,0,0, 0.5);}
+.popup_inner {position: absolute;right: 25%;top: 25%;margin: auto;border-radius: 7px;
+    -webkit-border-radius: 7px; -moz-border-radius: 7px;background: #ffffff;}
+.popup_inner .close_btn{position: absolute;top: 0;right: 0;border: none;background: none;}
+.view_popups{display: inline-flex;text-align: left;}
+.give_popup{width:40%;padding: 35px 32px;}
+.popup_take{width:60%;background: #f0f0f0;padding: 35px 45px;}
+.give_popup h2, .take_title{font-size: 24px;font-weight: bold;margin-bottom: 5px;}
+.give_popup h3{font-size: 18px;margin-bottom: 20px;}
+.mb_t h4, .mb_t h5, .mb_t p{color: #010101;font-size: 14px;text-transform: capitalize;font-family: 'Open Sans', sans-serif;}
+.group_title{color: #010101; font-size: 16px;margin: 40px 0px 22px 0px;}
+.take_btn .btns{border: none;background: #408d1c;color: #ffffff;font-size: 14px;padding: 6px 16px;border-radius: 7px;
+    -webkit-border-radius: 7px;-moz-border-radius: 7px;margin-right: 20px;}
+.take_btn .btn-s{border: none;font-size: 14px;background: none;text-decoration: underline;}
+.browse_upload{float: left;width: 100%;background: #e2e2e2;padding: 32px 16px;}
+.image_zoom{padding: 33px 83px 20px 138px;}
+.add_image{float: left;width: 100%;display: inline-flex;}
+ul.add_list, ul.view_thum{display: inline-flex;margin: 0px;padding: 0px;}
+ul.add_list li, ul.view_thum li{margin-right: 10px;}
+.add_image h2{font-size: 14px;padding: 20px 39px 0px 14px;}
+.btnv{background: #bcbcbc;border: none;color: #ffffff;font-size: 25px;padding: 12px 22px;}
+.view_images{float: left;width: 100%;}
+.imgzoom{width: 100%;}
+.thum_list{position: absolute;bottom: 81px;left: 28px;}
+.make_offer{float: left;width: 100%; background: #f8fdf2;padding: 63px 0px 45px 40px;}
+.custom_chk label{font-size: 14px;}
+.custom_chk{margin-top: 10px;}
+.make_title{color: #010101;font-size: 24px;font-weight: bold;margin: 0px 0px 67px 8px;}
+.offer_any{float: left;width: 100%;}
+.input_any .form_control{border: none;border-bottom: 1px solid #408d1c;width: 394px;background: transparent;
+    font-size: 18px;line-height: 35px;font-family: 'Montserrat', sans-serif;margin: 25px 0px 56px 0px;color: #408d1c!important;}
+.thing_custom, .make_chk{display: inline-flex!important;}    
+.thing_custom .btnany{background: #408d1c;border: none;color: #ffffff;font-size: 16px;border-radius: 7px;padding: 16px 32px;}
+.make_chk{margin-left: 20px;font-size: 13px;color: #7a7a7a;}

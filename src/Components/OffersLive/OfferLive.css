@@ -1,0 +1,20 @@
+.live_offers{background: #f5f6f4;padding: 70px 0px;}
+.nav_custom{margin:0px; padding: 0px;}
+ul.share_custom{margin: 0px; padding: 0px;}
+.share_custom li{padding: 18px 0px 18px 18px;border-radius: 7px;-webkit-border-radius: 7px; -moz-border-radius: 7px;margin-bottom: 15px;}
+.share_custom li:nth-child(1){background: #4c76be;}
+.share_custom li:nth-child(2){background: #00c8fc;}
+.share_custom li:nth-child(3){background: #159f0c;}
+.share_custom li:nth-child(4){background: #fd3736;}
+.share_custom li a{color: #ffffff;font-size: 14px;}
+.share_custom li a i{font-size: 25px; margin-right: 10px;}
+.social_share{padding: 0px 31px;}
+.social_share h2{font-size: 14px;margin: 36px 0px 18px 0px;}
+.custom_card{border: 1px solid #ffffff;padding: 1px;border-radius: 7px;-webkit-border-radius: 7px; -moz-border-radius: 7px;}
+.custom_card .card-body{background: #f6f6f6;}
+.live_title{font-size: 30px; font-weight: bold;margin-bottom: 65px;}
+.live_title span{font-weight: normal;}
+.custom_card .card-title{font-size: 18px;font-family: 'Open Sans', sans-serif;text-decoration: underline;}
+.custom_card .card_link a{font-size: 14px; color: #1446ff;}
+.custom_card .card-text{font-size: 14px;}
+.your_pottitle{font-size: 18px; font-weight: bold;text-transform: uppercase;margin-bottom: 25px;}
